@@ -1,0 +1,6 @@
+{
+  "name": "Computer Vision - 2016",
+  "tagline": "Code for FRC Stronghold Target Detection",
+  "body": "#FRC Team 3341 Computer Vision Code (2016)\r\n\r\n###Features\r\n* An advanced network table program that coordinates with Java and C++ for maximum results\r\n* Powerful Image Processing Using OpenCV\r\n* Accurate Image Distance Calculations\r\n* Easy to compile (Using CMake)\r\n\r\n###Contributors\r\n* Ronak Shah\r\n* George Troulis\r\n* Nick Nebel\r\n* Justin Davis\r\n* Adam Tedeschi\r\n* Prem Pathuri \r\n* Daniel Santora\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
